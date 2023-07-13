@@ -34,4 +34,7 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+tvl 
+saran
+hi
